@@ -1,12 +1,16 @@
 {
   "name": "been",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.0.1",
+  "description": "Been api app",
+  "private": true,
+  "dependencies": {
+    "express": "~4.16.4"
+  },
+  "devDependencies": {
+    "mocha": "~6.0.2",
+    "supertest": "~3.4.2"
   },
   "keywords": [],
-  "author": "",
+  "author": "Edward White",
   "license": "ISC"
 }
